@@ -7,6 +7,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/codelord27-hub/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/codelord27-hub/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
