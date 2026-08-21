@@ -6,6 +6,7 @@ Leetcode Questions
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/codelord27-hub/DSA-CPP/tree/master/0704-binary-search) |
@@ -22,6 +23,7 @@ Leetcode Questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/codelord27-hub/DSA-CPP/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
