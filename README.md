@@ -18,6 +18,7 @@ Leetcode Questions
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/codelord27-hub/DSA-CPP/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/codelord27-hub/DSA-CPP/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 ## Binary Search
@@ -32,6 +33,7 @@ Leetcode Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/codelord27-hub/DSA-CPP/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 ## Sorting
 |  |
