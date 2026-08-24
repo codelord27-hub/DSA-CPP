@@ -15,6 +15,7 @@ Leetcode Questions
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ Leetcode Questions
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 ## Ternary Search
 |  |
@@ -62,4 +64,5 @@ Leetcode Questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
