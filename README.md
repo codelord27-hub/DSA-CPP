@@ -56,5 +56,10 @@ Leetcode Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
