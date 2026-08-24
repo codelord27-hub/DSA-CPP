@@ -67,6 +67,7 @@ Leetcode Questions
 | ------- |
 | [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codelord27-hub/DSA-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +88,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codelord27-hub/DSA-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
