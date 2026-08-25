@@ -65,12 +65,14 @@ Leetcode Questions
 | ------- |
 | [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
+| [0680-valid-palindrome-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/codelord27-hub/DSA-CPP/tree/master/0539-minimum-time-difference) |
+| [0680-valid-palindrome-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codelord27-hub/DSA-CPP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codelord27-hub/DSA-CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -104,4 +106,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codelord27-hub/DSA-CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
