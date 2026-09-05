@@ -8,6 +8,7 @@ Leetcode Questions
 | ------- |
 | [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/codelord27-hub/DSA-CPP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/codelord27-hub/DSA-CPP/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/codelord27-hub/DSA-CPP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/codelord27-hub/DSA-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
@@ -64,6 +66,7 @@ Leetcode Questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/codelord27-hub/DSA-CPP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
