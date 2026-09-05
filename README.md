@@ -6,6 +6,7 @@ Leetcode Questions
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
@@ -46,6 +47,7 @@ Leetcode Questions
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
@@ -65,6 +67,7 @@ Leetcode Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/codelord27-hub/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
