@@ -19,6 +19,7 @@ Leetcode Questions
 | [0852-peak-index-in-a-mountain-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Leetcode Questions
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/codelord27-hub/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1901-find-a-peak-element-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Leetcode Questions
 | [0048-rotate-image](https://github.com/codelord27-hub/DSA-CPP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/1572-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
