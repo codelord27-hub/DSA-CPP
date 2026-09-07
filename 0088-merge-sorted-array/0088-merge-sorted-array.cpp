@@ -4,35 +4,36 @@ public:
         // m = nums1.size();
         // n = nums2.size();
 
+        vector<int> res(m + n);
+
         int i = 0;
         int j = 0;
         int id = 0;
-        vector <int> res(m+n);
-        while (i<m && j<n){
-            if (nums1[i] <= nums2[j]){
+
+        while (i < m && j < n) {
+            if (nums1[i] <= nums2[j]) {
                 res[id] = nums1[i];
                 id++;
                 i++;
-            }
-            else {
+            } else {
                 res[id] = nums2[j];
                 id++;
                 j++;
             }
         }
-        while (i<m){
+        while (i < m) {
             res[id] = nums1[i];
             id++;
             i++;
         }
-        while (j<n){
+        while (j < n) {
             res[id] = nums2[j];
             id++;
             j++;
         }
+        
         for (int k = 0; k<m+n; k++){
             nums1[k] = res[k];
         }
-
     }
 };
