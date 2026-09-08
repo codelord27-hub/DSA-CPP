@@ -37,6 +37,7 @@ Leetcode Questions
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/codelord27-hub/DSA-CPP/tree/master/0539-minimum-time-difference) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
+| [3870-count-commas-in-range](https://github.com/codelord27-hub/DSA-CPP/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
