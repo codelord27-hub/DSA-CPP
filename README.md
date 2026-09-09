@@ -40,6 +40,7 @@ Leetcode Questions
 | [0539-minimum-time-difference](https://github.com/codelord27-hub/DSA-CPP/tree/master/0539-minimum-time-difference) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/codelord27-hub/DSA-CPP/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
 |  |
 | ------- |
