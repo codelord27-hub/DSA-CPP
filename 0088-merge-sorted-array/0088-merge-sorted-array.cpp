@@ -1,9 +1,6 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        // m = nums1.size();
-        // n = nums2.size();
-
         vector<int> res(m + n);
 
         int i = 0;
@@ -31,9 +28,8 @@ public:
             id++;
             j++;
         }
-        
         for (int k = 0; k<m+n; k++){
-            nums1[k] = res[k];
+            nums1[k] = res[k]; 
         }
     }
 };
