@@ -23,11 +23,13 @@ Leetcode Questions
 | [1572-matrix-diagonal-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/1572-matrix-diagonal-sum) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codelord27-hub/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codelord27-hub/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codelord27-hub/DSA-CPP/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/codelord27-hub/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,4 +166,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/codelord27-hub/DSA-CPP/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/codelord27-hub/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
