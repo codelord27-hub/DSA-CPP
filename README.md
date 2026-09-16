@@ -6,6 +6,7 @@ Leetcode Questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codelord27-hub/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/codelord27-hub/DSA-CPP/tree/master/0048-rotate-image) |
@@ -87,6 +88,7 @@ Leetcode Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codelord27-hub/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0088-merge-sorted-array) |
@@ -136,6 +138,7 @@ Leetcode Questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/codelord27-hub/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/codelord27-hub/DSA-CPP/tree/master/0680-valid-palindrome-ii) |
 ## Quicksort
 |  |
