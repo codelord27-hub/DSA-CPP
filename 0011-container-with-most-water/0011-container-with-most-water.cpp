@@ -1,19 +1,18 @@
 class Solution {
 public:
-//function
     int maxArea(vector<int>& height) {
+        //height
         int n = height.size();
-        //variable;
         int i = 0;
         int j = n-1;
         int maxarea = 0;
-        //calculate height;
-        while (i <= j){
-            int containerheight = min(height[i], height[j]);
 
-            int width = j - i;
-            int area = containerheight * width;
-            maxarea = max(maxarea, area);
+        while (i <= j){
+            int width  = j-i;
+            int containerheight = min(height[i], height[j]);
+            int area = width * containerheight;
+
+            maxarea = max(area, maxarea);
 
             if (height[i] < height[j]){
                 i++;
@@ -23,5 +22,6 @@ public:
             }
         }
         return maxarea;
+        
     }
 };
