@@ -12,6 +12,7 @@ Leetcode Questions
 | [0048-rotate-image](https://github.com/codelord27-hub/DSA-CPP/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/codelord27-hub/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/codelord27-hub/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/codelord27-hub/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/codelord27-hub/DSA-CPP/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/codelord27-hub/DSA-CPP/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -173,4 +175,8 @@ Leetcode Questions
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/codelord27-hub/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/codelord27-hub/DSA-CPP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
