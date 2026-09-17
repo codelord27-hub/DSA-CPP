@@ -1,6 +1,6 @@
 class Solution {
 public:
-void solve(vector <int> nums, int index, vector <int>& temp,  vector <vector<int>>& ans){
+void solve(vector <int>& nums, int index, vector <int>& temp,  vector <vector<int>>& ans){
     int n = nums.size();
 
     if (index >= n){
@@ -18,7 +18,7 @@ void solve(vector <int> nums, int index, vector <int>& temp,  vector <vector<int
         int index = 0;
         vector <int> temp;
         solve(nums, index, temp, ans);
-        sort(ans.begin(), ans.end());
+        //sort(ans.begin(), ans.end());
         return ans;
     }
 };
