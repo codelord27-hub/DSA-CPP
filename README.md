@@ -16,6 +16,7 @@ Leetcode Questions
 | [0088-merge-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/codelord27-hub/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/codelord27-hub/DSA-CPP/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/codelord27-hub/DSA-CPP/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/codelord27-hub/DSA-CPP/tree/master/0539-minimum-time-difference) |
@@ -110,6 +111,7 @@ Leetcode Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/codelord27-hub/DSA-CPP/tree/master/0198-house-robber) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
