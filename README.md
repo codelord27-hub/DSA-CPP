@@ -19,6 +19,7 @@ Leetcode Questions
 | [0198-house-robber](https://github.com/codelord27-hub/DSA-CPP/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/codelord27-hub/DSA-CPP/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
+| [0416-partition-equal-subset-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/codelord27-hub/DSA-CPP/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/codelord27-hub/DSA-CPP/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -112,6 +113,7 @@ Leetcode Questions
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/codelord27-hub/DSA-CPP/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -181,4 +183,12 @@ Leetcode Questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/codelord27-hub/DSA-CPP/tree/master/0078-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
