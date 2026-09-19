@@ -14,6 +14,7 @@ Leetcode Questions
 | [0075-sort-colors](https://github.com/codelord27-hub/DSA-CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/codelord27-hub/DSA-CPP/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/codelord27-hub/DSA-CPP/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/codelord27-hub/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/codelord27-hub/DSA-CPP/tree/master/0198-house-robber) |
@@ -112,6 +113,7 @@ Leetcode Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/codelord27-hub/DSA-CPP/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/codelord27-hub/DSA-CPP/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [1872-stone-game-viii](https://github.com/codelord27-hub/DSA-CPP/tree/master/1872-stone-game-viii) |
