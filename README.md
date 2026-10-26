@@ -6,6 +6,7 @@ Leetcode Questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codelord27-hub/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/codelord27-hub/DSA-CPP/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codelord27-hub/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
@@ -32,6 +33,7 @@ Leetcode Questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codelord27-hub/DSA-CPP/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/codelord27-hub/DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codelord27-hub/DSA-CPP/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/codelord27-hub/DSA-CPP/tree/master/3483-unique-3-digit-even-numbers) |
